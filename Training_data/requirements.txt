@@ -1,0 +1,9 @@
+opencv-contrib-python
+numpy
+matplotlib
+tensorflow
+keras
+torch
+python-socketio
+Flask
+eventlet
